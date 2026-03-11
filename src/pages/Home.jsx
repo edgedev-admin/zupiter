@@ -117,23 +117,25 @@ const Home = () => {
                       className="w-full h-full object-cover"
                     />
                   </div>
-                  <div className="rounded-2xl overflow-hidden shadow-lg h-48 bg-primary/20 flex items-center justify-center transform hover:scale-105 transition-transform duration-300">
-                    <span className="material-icons text-6xl text-primary opacity-50">
-                      sanitizer
-                    </span>
+                  <div className="rounded-2xl overflow-hidden shadow-lg h-58 bg-primary/20 flex items-center justify-center transform hover:scale-105 transition-transform duration-300">
+                    <img
+                      src="https://lh3.googleusercontent.com/aida-public/AB6AXuArGIlJNzHUacN9wdEdN73vPdRmXt0HaX6aCXjofClA8QezbOY-RIfrhV9nVAfXNZXVSmtVwYspT0M54vslEvPso8H6V-CQ4dXHc-070MCMOVAC_r_XEktuAIinFftxb511F3pLYUdnDKhuRLz1-kC1I4BDoqfVHd8NgNWhoUxiN_CceNcK6O8c6THushnM5D7pDAsdBK-n4cw6kZON37t7XODvOu8Rq_9qgNZ2R305f1rJGqxMVEK5-BTtRib4LHdnWPh8tf09nmn5"
+                      alt="Sanitizer"
+                      className="w-full h-full object-cover"
+                    />
                   </div>
                 </div>
                 <div className="space-y-4">
-                  <div className="rounded-2xl overflow-hidden shadow-lg h-48 transform hover:scale-105 transition-transform duration-300">
+                  <div className="rounded-2xl overflow-hidden shadow-lg h-64 transform hover:scale-105 transition-transform duration-300">
                     <img
-                      src="https://lh3.googleusercontent.com/aida-public/AB6AXuD3dzlxzqSFd0e-uFbqlrQVPLqs4nKc_CmGT80IOdd_CuneYCQV11OUpflQqz6wR9KEXxVnhoQENcb9CONQ0YqXerXQiGqeN6yI3hM4lfh0R_Qs_Xybu90aTDHlzBmes21OjNghF9DaAkUB2gvxTPVFaIHodoF3L83k6O2RmzgmCv3vJ_LqJEhfh4dTyayebUBRwPESWKfYbatBvk6hTfQGgFAurEBwywhGVf82cPdcFz5A9aaglzwued-3YU4crbVKfYDqHz1hBwBe"
+                      src="/citronella.jpeg"
                       alt="Clean Floor"
                       className="w-full h-full object-cover"
                     />
                   </div>
                   <div className="rounded-2xl overflow-hidden shadow-lg h-64 transform hover:scale-105 transition-transform duration-300">
                     <img
-                      src="https://lh3.googleusercontent.com/aida-public/AB6AXuCUCEPjadL3gIRfRdew8rUyiIHMaCz8YIoOngWAWJAE6zpfZWDbnj24TseXQsa9SAqjzPRIqGUUajfqsNiaY4BHIqS1C8VvG960cWyaAA1yHHrpfZf-SO1Kj19h6sB1Cx20ik-zXZLupc3Z2tUDjoV9RGUYKFvCppCqGTfMI1OXGzjvvj4mvkBEs4clXb68D6PmQWPSQYSiMO0mq1htV5STeaCawhuvxbwq31Z9c9Q_n1YbHuqHlnmgRLUb-tVHnhCpNGyYJFbfKfOn"
+                      src="/superStrongPhenyl.jpeg"
                       alt="Neem Herb"
                       className="w-full h-full object-cover"
                     />

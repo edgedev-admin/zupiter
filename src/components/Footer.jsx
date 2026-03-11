@@ -12,14 +12,9 @@ const Footer = () => {
           {/* Brand Column */}
           <div>
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <span className="material-icons text-slate-900 text-base">
-                  shield
-                </span>
-              </div>
-              <span className="text-2xl font-bold text-white tracking-tight">
-                ZUPITER
-              </span>
+              <span className="text-2xl font-bold tracking-wide text-white-900 dark:text-white font-['Inter']">
+            ZUPITER<span className="font-bold text-primary">INDIA</span>
+          </span>
             </div>
 
             <p className="text-sm leading-relaxed mb-6">
